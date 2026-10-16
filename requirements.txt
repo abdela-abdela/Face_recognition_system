@@ -1,0 +1,10 @@
+deepface==0.0.102
+tensorflow==2.21.0
+tf-keras==2.21.0
+opencv-contrib-python==5.0.0.93
+numpy==2.4.6
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+ipykernel==6.29.5

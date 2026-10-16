@@ -1,0 +1,10 @@
+data/
+models/
+*.npy
+*.npz
+.ipynb_checkpoints/
+__pycache__/
+*.joblib
+.vscode/
+*.joblib
+.vscode/
